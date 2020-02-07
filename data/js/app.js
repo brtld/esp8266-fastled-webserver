@@ -6,6 +6,10 @@ var urlBase = "";
 // var address = "esp8266-1920f7.local";
 // var urlBase = "http://" + address + "/";
 
+// var address = "192";
+// var urlBase = "http://" + address + "/";
+
+
 var postColorTimer = {};
 var postValueTimer = {};
 
